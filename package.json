@@ -2,7 +2,7 @@
   "name": "testproj",
   "version": "1.0.0",
   "description": "PSBank Central Core",
-  "homepage": "https://jsguiang.github.io/projectone",
+  "homepage": "https://jsguiang.github.io/ProjectOne/",
   "private": false,
   "main": "dist/index.js",
   "dependencies": {
